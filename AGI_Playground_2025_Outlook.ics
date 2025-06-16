@@ -1,0 +1,237 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0@agi2025.local
+DTSTART;TZID=Asia/Shanghai:20250620T140000
+DTEND;TZID=Asia/Shanghai:20250620T180000
+SUMMARY:FounderShow新锐与成熟创业者的深度探讨
+LOCATION:场地B：751图书馆
+DESCRIPTION:单元：特别单元\n嘉宾：nan
+END:VEVENT
+BEGIN:VEVENT
+UID:1@agi2025.local
+DTSTART;TZID=Asia/Shanghai:20250621T090000
+DTEND;TZID=Asia/Shanghai:20250621T094000
+SUMMARY:拆解AI Native的产品新范式
+LOCATION:场地A：传导空间
+DESCRIPTION:单元：主题分享\n嘉宾：张鹏 极客公园 创始人&总裁
+END:VEVENT
+BEGIN:VEVENT
+UID:2@agi2025.local
+DTSTART;TZID=Asia/Shanghai:20250621T095000
+DTEND;TZID=Asia/Shanghai:20250621T102000
+SUMMARY:重塑出海范式，构建全球增长的智能创业新生态
+LOCATION:场地A：传导空间
+DESCRIPTION:单元：主题分享\n嘉宾：赵霏 Google Cloud 中国解决方案架构师总经理
+END:VEVENT
+BEGIN:VEVENT
+UID:3@agi2025.local
+DTSTART;TZID=Asia/Shanghai:20250621T102000
+DTEND;TZID=Asia/Shanghai:20250621T105000
+SUMMARY:我们所看到的具身智能的未来
+LOCATION:场地A：传导空间
+DESCRIPTION:单元：主题分享\n嘉宾：高继扬 星海图 创始人&CEO
+END:VEVENT
+BEGIN:VEVENT
+UID:4@agi2025.local
+DTSTART;TZID=Asia/Shanghai:20250621T105000
+DTEND;TZID=Asia/Shanghai:20250621T122000
+SUMMARY:创业者，怎么在这个AI时代「撒点野」
+LOCATION:场地A：传导空间
+DESCRIPTION:单元：深度对话\n嘉宾：罗永浩 科技创业者                  , 谢扬 Fellou 创始人                , 王登科 独响 创始人              , 张鹏 极客公园 创始人&总裁
+END:VEVENT
+BEGIN:VEVENT
+UID:5@agi2025.local
+DTSTART;TZID=Asia/Shanghai:20250621T140000
+DTEND;TZID=Asia/Shanghai:20250621T153000
+SUMMARY:00后观察：AI行业最优秀的年轻人在做什么？
+LOCATION:场地A：传导空间
+DESCRIPTION:单元：深度对话\n嘉宾：王蓓 高瓴创投 合伙人 , Ryan AdventureX 创始人 , AJ WaytoAGI 发起人
+END:VEVENT
+BEGIN:VEVENT
+UID:6@agi2025.local
+DTSTART;TZID=Asia/Shanghai:20250621T140000
+DTEND;TZID=Asia/Shanghai:20250621T153000
+SUMMARY:垂直赛道 Agent 如何一年实现超千万营收？
+LOCATION:场地B：751图书馆
+DESCRIPTION:单元：专题研讨\n嘉宾：翟星吉 语核科技 创始人 , 赵德旭 华宝国际 副总裁 , 王士昊 上海马勒热系统有限公司 数字化管理官
+END:VEVENT
+BEGIN:VEVENT
+UID:7@agi2025.local
+DTSTART;TZID=Asia/Shanghai:20250621T140000
+DTEND;TZID=Asia/Shanghai:20250621T153000
+SUMMARY:AI原生的硬件创业，正在面对哪些关键问题
+LOCATION:场地C：艺文空间
+DESCRIPTION:单元：深度对话\n嘉宾：Henri Kickstarter 中国首席战略代表＆高级顾问, 何嘉斌 萌友智能 CEO、联合创始人, 张晓辉 TangibleFuture 创始人 & CEO
+END:VEVENT
+BEGIN:VEVENT
+UID:8@agi2025.local
+DTSTART;TZID=Asia/Shanghai:20250621T140000
+DTEND;TZID=Asia/Shanghai:20250621T153000
+SUMMARY:对话式 Al Workshop（上）前沿篇：拆解 YC押注的Voice Agent 新浪潮
+LOCATION:场地D：极客公园
+DESCRIPTION:单元：专题研讨\n嘉宾：Plutoless 开源Agent框架TEN Framework 联合发起人, 冯雯 MiniMax 架构师, 郭兴华 Folotoy 联合创始人
+END:VEVENT
+BEGIN:VEVENT
+UID:9@agi2025.local
+DTSTART;TZID=Asia/Shanghai:20250621T153000
+DTEND;TZID=Asia/Shanghai:20250621T161000
+SUMMARY:TRAE: 从代码生成到软件生成
+LOCATION:场地A：传导空间
+DESCRIPTION:单元：主题分享\n嘉宾：石扬 TRAE 负责人
+END:VEVENT
+BEGIN:VEVENT
+UID:10@agi2025.local
+DTSTART;TZID=Asia/Shanghai:20250621T161000
+DTEND;TZID=Asia/Shanghai:20250621T165000
+SUMMARY:AI 时代的下一个超级入口—超级搜索
+LOCATION:场地A：传导空间
+DESCRIPTION:单元：主题分享\n嘉宾：梁志辉 360集团 副总裁&纳米AI负责人
+END:VEVENT
+BEGIN:VEVENT
+UID:11@agi2025.local
+DTSTART;TZID=Asia/Shanghai:20250621T165000
+DTEND;TZID=Asia/Shanghai:20250621T173000
+SUMMARY:从工具到平台，如何用AI找到泛商业内容出海的PMF？
+LOCATION:场地A：传导空间
+DESCRIPTION:单元：主题分享\n嘉宾：韩晟 小影科技&影伙引擎 创始人
+END:VEVENT
+BEGIN:VEVENT
+UID:12@agi2025.local
+DTSTART;TZID=Asia/Shanghai:20250621T160000
+DTEND;TZID=Asia/Shanghai:20250621T173000
+SUMMARY:Al 时代，Google 生态高效驱动全球化增长
+LOCATION:场地B：751图书馆
+DESCRIPTION:单元：专题研讨\n嘉宾：刘士君 Google Cloud Al 解决方案架构师, 刘凡 Google Cloud 应用现代化解决方案架构师, 王楠 Jina Al 联合创始人兼 CTO, 严欣怡 Google 大中华区新客户部 移动业务负责人, 李孟聪Google 大中华区商业合作部 业务拓展经理
+END:VEVENT
+BEGIN:VEVENT
+UID:13@agi2025.local
+DTSTART;TZID=Asia/Shanghai:20250621T160000
+DTEND;TZID=Asia/Shanghai:20250621T173000
+SUMMARY:从 Demo 到产品：大模型时代的生产力工具应用落地
+LOCATION:场地C：艺文空间
+DESCRIPTION:单元：专题研讨\n嘉宾：贾安亚 商汤科技 高级产品总监 小浣熊家族负责人, 袁滚滚  Atypical Ventures 总监, 阴明 VibeCafé 组织者, 启师傅 良渚 Demo Day 发起人, 吴嘉豪 蚂蚁集团 蚂蚁百宝箱产品负责人, 生姜 Iris AFFiNE Cofounder & Ex-COO
+END:VEVENT
+BEGIN:VEVENT
+UID:14@agi2025.local
+DTSTART;TZID=Asia/Shanghai:20250621T160000
+DTEND;TZID=Asia/Shanghai:20250621T173000
+SUMMARY:对话式 Al Workshop (下)动手篇：一小时极速构建你的实时语音对话 Avatar
+LOCATION:场地D：极客公园
+DESCRIPTION:单元：专题研讨\n嘉宾：Plutoless 开源Agent框架TEN Framework 联合发起人 , 白宦成 阶跃星辰 技术产品经理&RTE 开发者社区 布道师,
+END:VEVENT
+BEGIN:VEVENT
+UID:15@agi2025.local
+DTSTART;TZID=Asia/Shanghai:20250622T090000
+DTEND;TZID=Asia/Shanghai:20250622T091000
+SUMMARY:AI Cloud 100 China × AGI Playground
+LOCATION:场地A：传导空间
+DESCRIPTION:单元：开场致辞\n嘉宾：郑靖伟 靖亚资本 创始管理合伙人
+END:VEVENT
+BEGIN:VEVENT
+UID:16@agi2025.local
+DTSTART;TZID=Asia/Shanghai:20250622T091000
+DTEND;TZID=Asia/Shanghai:20250622T093000
+SUMMARY:2025中国 Al Cloud 行业趋势报告发布
+LOCATION:场地A：传导空间
+DESCRIPTION:单元：主题分享\n嘉宾：何沛 靖亚资本 创始合伙人
+END:VEVENT
+BEGIN:VEVENT
+UID:17@agi2025.local
+DTSTART;TZID=Asia/Shanghai:20250622T093000
+DTEND;TZID=Asia/Shanghai:20250622T101500
+SUMMARY:GenAI 推动的新一轮全球投资范式和投资主线？
+LOCATION:场地A：传导空间
+DESCRIPTION:单元：深度对话\n嘉宾：Santi Subotovsky Emergence Capital 合伙人, 郑靖伟 靖亚资本 创始管理合伙人, 蒋珊珊 阿里巴巴 战略投资部前沿科技板块 投资负责人, 张鹏 极客公园 创始人&总裁
+END:VEVENT
+BEGIN:VEVENT
+UID:18@agi2025.local
+DTSTART;TZID=Asia/Shanghai:20250622T101500
+DTEND;TZID=Asia/Shanghai:20250622T111500
+SUMMARY:多模态内容生成，为什么是属于中国公司的机会？
+LOCATION:场地A：传导空间
+DESCRIPTION:单元：深度对话\n嘉宾：宋亚宸 VAST 创始人& CEO, 戴勃 Feeling Al 创始人、首席科学家, 谢旭璋 Pixverse 爱诗科技 联合创始人, 程曼祺 晚点LatePost 科技负责人&《晚点聊》主播
+END:VEVENT
+BEGIN:VEVENT
+UID:19@agi2025.local
+DTSTART;TZID=Asia/Shanghai:20250622T111500
+DTEND;TZID=Asia/Shanghai:20250622T120000
+SUMMARY:软件订阅费到为 GenAI 结果付费，Al 如何重塑收入模型？
+LOCATION:场地A：传导空间
+DESCRIPTION:单元：深度对话\n嘉宾：陈航 群核科技 联合创始人兼 CEO, 赵充 像素绽放PixelBloom(AiPPT.com) CEO, 金礼剑 影刀 RPA 创始人& CEO, 司马华鹏 硅基智能 创始人& 董事长& CEO, 崔强 崔牛会 创始人
+END:VEVENT
+BEGIN:VEVENT
+UID:20@agi2025.local
+DTSTART;TZID=Asia/Shanghai:20250622T140000
+DTEND;TZID=Asia/Shanghai:20250622T153000
+SUMMARY:当我们聊 AI 的时候，我们在渴望和恐惧什么
+LOCATION:场地A：传导空间
+DESCRIPTION:单元：深度对话&小宇宙聊天会\n嘉宾：王登科 独响 创始人, 王汉洋 播客节目《怪物尚志》 主播, 王健飞 播客节目《二维吾码》主播, 王可达 播客节目《山有虎》主播
+END:VEVENT
+BEGIN:VEVENT
+UID:21@agi2025.local
+DTSTART;TZID=Asia/Shanghai:20250622T140000
+DTEND;TZID=Asia/Shanghai:20250622T153000
+SUMMARY:Vibe Coding： 构建 AI 可以自主使用的工具
+LOCATION:场地B：751图书馆
+DESCRIPTION:单元：上手开发\n嘉宾：杨永乐 Dify DevRel
+END:VEVENT
+BEGIN:VEVENT
+UID:22@agi2025.local
+DTSTART;TZID=Asia/Shanghai:20250622T140000
+DTEND;TZID=Asia/Shanghai:20250622T153000
+SUMMARY:Airwallex空中云汇全球化历程和海外融资经验（上）
+LOCATION:场地C：艺文空间
+DESCRIPTION:单元：专题研讨\n嘉宾：Kai Wu Airwallex Chief Revenue Officer, 陈航 群核科技 联合创始人兼 CEO, 徐晓熙 印象笔记 创新业务副总裁, 骆银银 靖亚资本 合伙人
+END:VEVENT
+BEGIN:VEVENT
+UID:23@agi2025.local
+DTSTART;TZID=Asia/Shanghai:20250622T140000
+DTEND;TZID=Asia/Shanghai:20250622T153000
+SUMMARY:Google AI 进展及创业公司如何最大化海外营销？（上）
+LOCATION:场地D：极客公园
+DESCRIPTION:单元：专题研讨\n嘉宾：李淼鑫 Google Cloud 北亚区初创生态负责人, 梁志兴 思想科技 总经理, 刘松 Ping CAP 副总裁, 何沛 靖亚资本 创始合伙人
+END:VEVENT
+BEGIN:VEVENT
+UID:24@agi2025.local
+DTSTART;TZID=Asia/Shanghai:20250622T153000
+DTEND;TZID=Asia/Shanghai:20250622T161000
+SUMMARY:GenAI 如何给SaaS 超级加倍？Global 案例详细拆解
+LOCATION:场地A：传导空间
+DESCRIPTION:单元：主题分享\n嘉宾：钱觐开 Linkloud 联合创始人
+END:VEVENT
+BEGIN:VEVENT
+UID:25@agi2025.local
+DTSTART;TZID=Asia/Shanghai:20250622T161000
+DTEND;TZID=Asia/Shanghai:20250622T174000
+SUMMARY:AI创业范式转移：如何用产品提升智能
+LOCATION:场地A：传导空间
+DESCRIPTION:单元：主题分享\n嘉宾：钱觐开 Linkloud 联合创始人, 刘遥行 One2X 联合创始人 & COO
+END:VEVENT
+BEGIN:VEVENT
+UID:26@agi2025.local
+DTSTART;TZID=Asia/Shanghai:20250622T153000
+DTEND;TZID=Asia/Shanghai:20250622T170000
+SUMMARY:Airwallex空中云汇全球化历程和海外融资经验（下）
+LOCATION:场地C：艺文空间
+DESCRIPTION:单元：专题研讨\n嘉宾：Kai Wu Airwallex Chief Revenue Officer, 陈航 群核科技 联合创始人兼 CEO, 徐晓熙 印象笔记 创新业务副总裁, 骆银银 靖亚资本 合伙人
+END:VEVENT
+BEGIN:VEVENT
+UID:27@agi2025.local
+DTSTART;TZID=Asia/Shanghai:20250622T153000
+DTEND;TZID=Asia/Shanghai:20250622T170000
+SUMMARY:Google AI 进展及创业公司如何最大化海外营销？（下）
+LOCATION:场地D：极客公园
+DESCRIPTION:单元：专题研讨\n嘉宾：李淼鑫 Google Cloud 北亚区初创生态负责人, 梁志兴 思想科技 总经理, 刘松 Ping CAP 副总裁, 何沛 靖亚资本 创始合伙人
+END:VEVENT
+BEGIN:VEVENT
+UID:28@agi2025.local
+DTSTART;TZID=Asia/Shanghai:20250622T170000
+DTEND;TZID=Asia/Shanghai:20250622T183000
+SUMMARY:十字路口 × Founder Park
+LOCATION:场地B：751图书馆
+DESCRIPTION:单元：After Party\n嘉宾：Koji杨远骋 十字路口 创始人& Al Hacker House 发起人
+END:VEVENT
+END:VCALENDAR
